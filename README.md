@@ -73,4 +73,4 @@ A collection of awesome things related to DevOps and AWS
 * [Container monitoring for Amazon ECS, EKS, and Kubernetes is now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2019/08/container-monitoring-for-amazon-ecs-eks-and-kubernetes-is-now-available-in-amazon-cloudwatch/)
 * [Using Prometheus Metrics in Amazon CloudWatch](https://aws.amazon.com/blogs/containers/using-prometheus-metrics-in-amazon-cloudwatch/)
 * [AWS observability workshop](https://observability.workshop.aws/en/)
-* [Building dashboards for operational visibility] (https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
+* [Building dashboards for operational visibility](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
