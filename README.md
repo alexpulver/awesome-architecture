@@ -1,8 +1,6 @@
-# Awesome DevOps and AWS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" align="right" alt="CDK">](https://github.com/aws/aws-cdk)
+# Awesome DevOps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" align="right" alt="CDK">](https://github.com/aws/aws-cdk)
 
-A collection of awesome things related to DevOps and AWS
-
-# DevOps on AWS
+A collection of awesome things related to DevOps
 
 ## Methodology
 
