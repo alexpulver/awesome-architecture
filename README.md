@@ -17,6 +17,7 @@ A collection of awesome things related to DevOps
 ## Mindset
 
 * Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
+* [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
 * Towards Operational Excellence blog post series:
     * [Part 1 — Customers, Culture, and why you should care](https://medium.com/@adhorn/towards-operational-excellence-35ba6298b12f)
     * [Part 2 —On the importance of tools](https://medium.com/@adhorn/towards-operational-excellence-c9fe298e27e7)
@@ -41,7 +42,6 @@ A collection of awesome things related to DevOps
 ## CI/CD
 
 * [CDK Pipelines: Continuous delivery for AWS CDK applications](https://aws.amazon.com/blogs/developer/cdk-pipelines-continuous-delivery-for-aws-cdk-applications/)
-* [Continuous Delivery for CDK Apps](https://github.com/aws/aws-cdk-rfcs/blob/master/text/0049-continuous-delivery.md) (AWS CDK RFC)
 * [Building a cross-account continuous delivery pipeline for database migrations](https://aws.amazon.com/blogs/database/building-a-cross-account-continuous-delivery-pipeline-for-database-migrations/)
 * [Automating cross-account actions with an AWS CDK credential plugin](https://aws.amazon.com/blogs/devops/cdk-credential-plugin/)
 * [Serverless CI/CD for the Enterprise on AWS](https://aws.amazon.com/quickstart/architecture/serverless-cicd-for-enterprise/)
