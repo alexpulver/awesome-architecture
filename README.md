@@ -16,6 +16,7 @@ A collection of awesome things related to DevOps
 
 ## Mindset
 
+* [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 * Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
 * [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
 * Towards Operational Excellence blog post series:
