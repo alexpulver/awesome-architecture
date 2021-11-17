@@ -2,43 +2,9 @@
 
 A collection of awesome things related to DevOps
 
-## Methodology
-
-* Follow [The Twelve-Factor App](https://12factor.net/) principles. See also [Applying  the Twelve-Factor App Methodology to Serverless Applications](https://aws.amazon.com/blogs/compute/applying-the-twelve-factor-app-methodology-to-serverless-applications/)
-* Consider [Trunk-Based Development](https://trunkbaseddevelopment.com/) model, which Amazon strongly encourages internally - see “before we begin” in [Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
-* Consider [Branch by Abstraction](https://www.branchbyabstraction.com/) for major changes that take time and continue using [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release
-* ThoughtWorks Technology Radar - [Techniques](https://www.thoughtworks.com/radar/techniques). Specifically, **"Four key metrics"**: The thorough State of DevOps reports have focused on data-driven and statistical analysis of high-performing organizations. The result of this multiyear research, published in Accelerate, demonstrates a direct link between organizational performance and software delivery performance. The researchers have determined that only four key metrics differentiate between low, medium and high performers: **lead time**, **deployment frequency**, **mean time to restore** (MTTR) and **change fail percentage**. Indeed, we've found that these four key metrics are a simple and yet powerful tool to help leaders and teams focus on measuring and improving what matters. A good place to start is to instrument the build pipelines so you can capture the four key metrics and make the software delivery value stream visible
-* Use multiple accounts for different Software Development Life Cycle (SDLC) stages to reduce blast radius of configuration changes, security breaches, account or regional quotas (a.k.a. limits) and more. See [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/) for more motivation and details
-
 ## Case studies
 
 * [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
-
-## Mindset
-
-* [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
-* Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
-* [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
-* Towards Operational Excellence blog post series:
-    * [Part 1 — Customers, Culture, and why you should care](https://medium.com/@adhorn/towards-operational-excellence-35ba6298b12f)
-    * [Part 2 —On the importance of tools](https://medium.com/@adhorn/towards-operational-excellence-c9fe298e27e7)
-    * [Part 3 — Mechanisms](https://medium.com/@adhorn/towards-operational-excellence-part-3-8b727f06a4b6)
-* Amazon’s approach to failing successfully ([video](https://www.youtube.com/watch?v=yQiRli2ZPxU), [slides](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon%E2%80%99s_approach_to_failing_successfully_DOP208-R1.pdf))
-* Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
-* Amazon's approach to high-availability deployment ([video](https://www.youtube.com/watch?v=bCgD2bX1LI4), [slides](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon's_approach_to_high-availability_deployment_DOP404-R1.pdf.pdf))
-* [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
-* Releasing Mission-Critical Software at Amazon ([video](https://www.youtube.com/watch?v=I61KKO1rAQ8&feature=youtu.be), [slides](https://www.slideshare.net/AmazonWebServices/releasing-missioncritical-software-at-amazon-dev209r1-aws-reinvent-2018))
-* [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
-* [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
-
-## IDE
-
-* [AWS Toolkit for Visual Studio Code Adds New CDK Explorer in Preview](https://aws.amazon.com/about-aws/whats-new/2019/11/aws-toolkit-for-vs-code-adds-new-cdk-explorer-in-preview/)
-* [Announcing Cloud Debugging (beta) for Debugging Your Applications Running in the Cloud with JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-cloud-debugging-beta/)
-
-## Infrastructure as Code
-
-* [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
 
 ## CI/CD
 
@@ -58,6 +24,44 @@ A collection of awesome things related to DevOps
 * [Test Reports with AWS CodeBuild](https://aws.amazon.com/blogs/devops/test-reports-with-aws-codebuild/)
 * [New – Building a Continuous Integration Workflow with Step Functions and AWS CodeBuild](https://aws.amazon.com/blogs/aws/new-building-a-continuous-integration-workflow-with-step-functions-and-aws-codebuild/)
 * [Using AWS Step Functions State Machines to Handle Workflow-Driven AWS CodePipeline Actions](https://aws.amazon.com/blogs/devops/using-aws-step-functions-state-machines-to-handle-workflow-driven-aws-codepipeline-actions/)
+
+## IDE
+
+* [AWS Toolkit for Visual Studio Code Adds New CDK Explorer in Preview](https://aws.amazon.com/about-aws/whats-new/2019/11/aws-toolkit-for-vs-code-adds-new-cdk-explorer-in-preview/)
+* [Announcing Cloud Debugging (beta) for Debugging Your Applications Running in the Cloud with JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-cloud-debugging-beta/)
+
+## Infrastructure as Code
+
+* [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
+
+## Methodology
+
+* Follow [The Twelve-Factor App](https://12factor.net/) principles. See also [Applying  the Twelve-Factor App Methodology to Serverless Applications](https://aws.amazon.com/blogs/compute/applying-the-twelve-factor-app-methodology-to-serverless-applications/)
+* Consider [Trunk-Based Development](https://trunkbaseddevelopment.com/) model, which Amazon strongly encourages internally - see “before we begin” in [Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
+* Consider [Branch by Abstraction](https://www.branchbyabstraction.com/) for major changes that take time and continue using [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release
+* ThoughtWorks Technology Radar - [Techniques](https://www.thoughtworks.com/radar/techniques). Specifically, **"Four key metrics"**: The thorough State of DevOps reports have focused on data-driven and statistical analysis of high-performing organizations. The result of this multiyear research, published in Accelerate, demonstrates a direct link between organizational performance and software delivery performance. The researchers have determined that only four key metrics differentiate between low, medium and high performers: **lead time**, **deployment frequency**, **mean time to restore** (MTTR) and **change fail percentage**. Indeed, we've found that these four key metrics are a simple and yet powerful tool to help leaders and teams focus on measuring and improving what matters. A good place to start is to instrument the build pipelines so you can capture the four key metrics and make the software delivery value stream visible
+* Use multiple accounts for different Software Development Life Cycle (SDLC) stages to reduce blast radius of configuration changes, security breaches, account or regional quotas (a.k.a. limits) and more. See [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/) for more motivation and details
+
+## Mindset
+
+* [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
+* Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
+* [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
+* Towards Operational Excellence blog post series:
+    * [Part 1 — Customers, Culture, and why you should care](https://medium.com/@adhorn/towards-operational-excellence-35ba6298b12f)
+    * [Part 2 —On the importance of tools](https://medium.com/@adhorn/towards-operational-excellence-c9fe298e27e7)
+    * [Part 3 — Mechanisms](https://medium.com/@adhorn/towards-operational-excellence-part-3-8b727f06a4b6)
+* Amazon’s approach to failing successfully ([video](https://www.youtube.com/watch?v=yQiRli2ZPxU), [slides](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon%E2%80%99s_approach_to_failing_successfully_DOP208-R1.pdf))
+* Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
+* Amazon's approach to high-availability deployment ([video](https://www.youtube.com/watch?v=bCgD2bX1LI4), [slides](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon's_approach_to_high-availability_deployment_DOP404-R1.pdf.pdf))
+* [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
+* Releasing Mission-Critical Software at Amazon ([video](https://www.youtube.com/watch?v=I61KKO1rAQ8&feature=youtu.be), [slides](https://www.slideshare.net/AmazonWebServices/releasing-missioncritical-software-at-amazon-dev209r1-aws-reinvent-2018))
+* [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
+* [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
+
+## Networking
+* [VPC sharing: key considerations and best practices](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-key-considerations-and-best-practices/)
+* [How FactSet handles networking for 1000+ AWS accounts](https://aws.amazon.com/blogs/networking-and-content-delivery/how-factset-handles-networking-for-1000-aws-accounts/)
 
 ## Observability
 
