@@ -8,6 +8,7 @@ A collection of awesome things related to DevOps
 
 ## CI/CD
 
+* Hands-off: Automating continuous delivery pipelines at Amazon ([video](https://youtu.be/ngnMj1zbMPY), [article](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/), [podcast](https://www.infoq.com/podcasts/aws-deployments/))
 * [CDK Pipelines: Continuous delivery for AWS CDK applications](https://aws.amazon.com/blogs/developer/cdk-pipelines-continuous-delivery-for-aws-cdk-applications/)
 * [Building a cross-account continuous delivery pipeline for database migrations](https://aws.amazon.com/blogs/database/building-a-cross-account-continuous-delivery-pipeline-for-database-migrations/)
 * [Automating cross-account actions with an AWS CDK credential plugin](https://aws.amazon.com/blogs/devops/cdk-credential-plugin/)
