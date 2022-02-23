@@ -4,6 +4,7 @@ A collection of awesome things related to DevOps
 
 ## Case studies
 
+* [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 * [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
 
 ## CI/CD
