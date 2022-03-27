@@ -40,6 +40,7 @@ A collection of awesome things related to DevOps
 
 ## Methodology
 
+* [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * [Overview of Deployment Options on AWS](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html)
 * [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html)
 * Follow [The Twelve-Factor App](https://12factor.net/) principles. See also [Applying  the Twelve-Factor App Methodology to Serverless Applications](https://aws.amazon.com/blogs/compute/applying-the-twelve-factor-app-methodology-to-serverless-applications/)
