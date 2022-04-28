@@ -42,7 +42,7 @@ A collection of awesome things related to DevOps
 * AWS - [Applying  the Twelve-Factor App Methodology to Serverless Applications](https://aws.amazon.com/blogs/compute/applying-the-twelve-factor-app-methodology-to-serverless-applications/)
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/). Amazon encourages this development model - see “before we begin” section in [Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [Branch by Abstraction](https://www.branchbyabstraction.com/) for major changes that take time
-* LaunhcDarkly - [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release new capabilities
+* LaunchDarkly - [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release new capabilities
 * ThoughtWorks - [Technology Radar](https://www.thoughtworks.com/radar). Specifically, see [Four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
 * AWS - [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
 
