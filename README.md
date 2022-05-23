@@ -9,6 +9,7 @@ A collection of awesome things related to DevOps
 
 ## CI/CD
 
+* Jim Bird - [Rolling Forward and other Deployment Myths](https://dzone.com/articles/rolling-forward-and-other)
 * Basecamp - [Seamless branch deploys with Kubernetes](https://m.signalvnoise.com/seamless-branch-deploys-with-kubernetes/)
 * AWS - [Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines](https://aws.amazon.com/blogs/containers/continuous-delivery-of-amazon-eks-clusters-using-aws-cdk-and-cdk-pipelines/)
 * Amazon - Hands-off: Automating continuous delivery pipelines at Amazon ([video](https://youtu.be/ngnMj1zbMPY), [article](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/), [podcast](https://www.infoq.com/podcasts/aws-deployments/))
