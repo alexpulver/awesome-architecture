@@ -36,6 +36,7 @@ A collection of awesome things related to DevOps
 
 ## Methodology
 
+* Pedro Del Gallego - [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
 * martinfowler.com - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * AWS - [Overview of Deployment Options on AWS](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html)
 * AWS - [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html)
