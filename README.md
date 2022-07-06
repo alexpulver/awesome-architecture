@@ -29,6 +29,10 @@ A collection of awesome things related to DevOps
 * AWS - [New – Building a Continuous Integration Workflow with Step Functions and AWS CodeBuild](https://aws.amazon.com/blogs/aws/new-building-a-continuous-integration-workflow-with-step-functions-and-aws-codebuild/)
 * AWS - [Using AWS Step Functions State Machines to Handle Workflow-Driven AWS CodePipeline Actions](https://aws.amazon.com/blogs/devops/using-aws-step-functions-state-machines-to-handle-workflow-driven-aws-codepipeline-actions/)
 
+## Concepts
+
+* Software Boundaries or "Fracture Planes" ([Matthew Skelton](https://blog.matthewskelton.net/about/)): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
+
 ## Infrastructure as Code
 
 * AWS - [Running bash commands in AWS CloudFormation templates](https://aws.amazon.com/blogs/mt/running-bash-commands-in-aws-cloudformation-templates/)
@@ -37,6 +41,8 @@ A collection of awesome things related to DevOps
 
 ## Methodology
 
+* martinfowler.com - [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
+* martinfowler.com - [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 * Pedro Del Gallego - [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
 * martinfowler.com - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * AWS - [Overview of Deployment Options on AWS](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html)
@@ -48,11 +54,6 @@ A collection of awesome things related to DevOps
 * LaunchDarkly - [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release new capabilities
 * ThoughtWorks - [Technology Radar](https://www.thoughtworks.com/radar). Specifically, see [Four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
 * AWS - [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
-
-## Mindset
-
-* martinfowler.com - [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
-* martinfowler.com - [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 * AWS - Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
 * [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
 * Towards Operational Excellence blog post series:
