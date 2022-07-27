@@ -32,6 +32,7 @@ A collection of awesome things related to DevOps
 ## Concepts
 
 * Software Boundaries or "Fracture Planes" ([Matthew Skelton](https://blog.matthewskelton.net/about/)): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
+* Software delivery performance four key metrics: 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
 
 ## Infrastructure as Code
 
@@ -53,7 +54,7 @@ A collection of awesome things related to DevOps
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/). Amazon encourages this development model - see “before we begin” section in [Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [Branch by Abstraction](https://www.branchbyabstraction.com/) for major changes that take time
 * LaunchDarkly - [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/) for deciding when to release new capabilities
-* ThoughtWorks - [Technology Radar](https://www.thoughtworks.com/radar). Specifically, see [Four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
+* ThoughtWorks - [Technology Radar](https://www.thoughtworks.com/radar)
 * AWS - [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
 * AWS - Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
 * [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
