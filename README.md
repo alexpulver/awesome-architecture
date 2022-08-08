@@ -4,6 +4,7 @@ A collection of awesome things related to DevOps
 
 ## Case studies
 
+* Carlos Arguelles - [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
 * DAZN - [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 * Amazon - [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
 
