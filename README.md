@@ -43,7 +43,7 @@ A collection of awesome things related to DevOps
 * AWS - [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
 
 ## Methodology
-
+* James Hamilton - [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
 * Amazon - [Operational Readiness Reviews (ORR)](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
 * martinfowler.com - [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
 * martinfowler.com - [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
