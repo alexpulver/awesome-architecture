@@ -1,16 +1,13 @@
 # Awesome DevOps ![Awesome](https://awesome.re/badge.svg)
-
 A collection of awesome things related to DevOps
 
 ## Case studies
-
 * SoundCloud - [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * Carlos Arguelles - [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
 * DAZN - [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 * Amazon - [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
 
 ## CI/CD
-
 * Jim Bird - [Rolling Forward and other Deployment Myths](https://dzone.com/articles/rolling-forward-and-other)
 * Basecamp - [Seamless branch deploys with Kubernetes](https://m.signalvnoise.com/seamless-branch-deploys-with-kubernetes/)
 * AWS - [Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines](https://aws.amazon.com/blogs/containers/continuous-delivery-of-amazon-eks-clusters-using-aws-cdk-and-cdk-pipelines/)
@@ -32,14 +29,12 @@ A collection of awesome things related to DevOps
 * AWS - [Using AWS Step Functions State Machines to Handle Workflow-Driven AWS CodePipeline Actions](https://aws.amazon.com/blogs/devops/using-aws-step-functions-state-machines-to-handle-workflow-driven-aws-codepipeline-actions/)
 
 ## Concepts
-
 * AWS CDK project structure: AWS CDK [application](https://docs.aws.amazon.com/cdk/v2/guide/apps.html) contains deployment units (e.g. workload component, toolchain). Each deployment unit contains logical units. Each logical unit contains infrastructure and optionally a runtime code. AWS CDK implements the deployment units using [stacks](https://docs.aws.amazon.com/cdk/v2/guide/stacks.html) and the logical units' infrastructure as [constructs](https://docs.aws.amazon.com/cdk/v2/guide/constructs.html). The logical unit runtime can use any framework (e.g. [AWS Lambda Powertools for Python](https://awslabs.github.io/aws-lambda-powertools-python/), [Spring Boot](https://spring.io/projects/spring-boot)). Each deployment unit should have a separate file to encourage [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)). The deployment unit file name should express its function (e.g. `backend/component.py`, `toolchain.py`) to ease code navigation and refactoring. Each logical unit should be self-contained to avoid [leaky abstractions](https://en.wikipedia.org/wiki/Leaky_abstraction). Create a directory per logical unit (e.g. `api`, `database`, `monitoring`). Deployment units compose the logical units together per application requirements. Logical units compose infrastructure code and optionally a runtime code to implement their functionality. Separate infrastructure code and runtime code in `infrastructure` and `runtime` directories to explicitly separate dependencies and to encourage encapsulation.
 * [Architecture decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html) support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts
 * Software Boundaries or "Fracture Planes" ([Matthew Skelton](https://blog.matthewskelton.net/about/)): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
 * Software delivery performance four key metrics: 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
 
 ## Infrastructure as Code
-
 * AWS - [Running bash commands in AWS CloudFormation templates](https://aws.amazon.com/blogs/mt/running-bash-commands-in-aws-cloudformation-templates/)
 * AWS - Building production-ready prototypes ([video](https://www.youtube.com/watch?v=-_Zl9u9i1KI), [slides](https://d1.awsstatic.com/events/reinvent/2021/Building_productionready_prototypes_ARC330.pdf))
 * AWS - [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
@@ -75,12 +70,12 @@ A collection of awesome things related to DevOps
 * Amazon - [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
 
 ## Networking
+* AWS - [Designing hyperscale Amazon VPC networks](https://aws.amazon.com/blogs/networking-and-content-delivery/designing-hyperscale-amazon-vpc-networks/)
 * AWS - [Addressing latency and data transfer costs on EKS using Istio](https://aws.amazon.com/blogs/containers/addressing-latency-and-data-transfer-costs-on-eks-using-istio/)
 * AWS - [VPC sharing: key considerations and best practices](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-key-considerations-and-best-practices/)
 * FactSet - [How FactSet handles networking for 1000+ AWS accounts](https://aws.amazon.com/blogs/networking-and-content-delivery/how-factset-handles-networking-for-1000-aws-accounts/)
 
 ## Observability
-
 * Amazon - [Building dashboards for operational visibility](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 * AWS - [AWS X-Ray](https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html) (see also [Integrating  AWS X-Ray with Other AWS Services](https://docs.aws.amazon.com/xray/latest/devguide/xray-services.html))
 * AWS - [AWS  X-Ray Now Supports Amazon API Gateway and New Sampling Rules API](https://aws.amazon.com/blogs/aws/apigateway-xray/)
