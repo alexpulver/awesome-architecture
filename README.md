@@ -1,5 +1,5 @@
-# Awesome DevOps ![Awesome](https://awesome.re/badge.svg)
-A collection of awesome things related to DevOps
+# Awesome Architecture ![Awesome](https://awesome.re/badge.svg)
+A collection of awesome things related to Architecture
 
 ## Case studies
 * SoundCloud - [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
