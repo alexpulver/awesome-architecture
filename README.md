@@ -1,6 +1,9 @@
 # Awesome Architecture ![Awesome](https://awesome.re/badge.svg)
 A collection of awesome things related to Architecture
 
+## API
+* Netflix - How Netflix Scales its API with GraphQL Federation ([Part 1](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2), [Part 2](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a))
+
 ## Case studies
 * SoundCloud - [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * Carlos Arguelles - [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
