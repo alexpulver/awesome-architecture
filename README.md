@@ -68,6 +68,7 @@ A collection of awesome things related to Architecture
 * AWS - [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
 
 ## Integration patterns
+* AWS - [Architecture patterns for consuming private APIs cross-account](https://aws.amazon.com/blogs/compute/architecture-patterns-for-consuming-private-apis-cross-account/)
 * Gregor Hohpe - [Starbucks Does Not Use Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html)
 
 ## Internet of Things (IoT)
