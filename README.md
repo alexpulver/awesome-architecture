@@ -15,12 +15,6 @@ A collection of awesome things related to Architecture
 * AWS - [Enhancing Amazon DynamoDB single-table design with AWS AppSync access and security features](https://aws.amazon.com/blogs/mobile/enhancing-dynamodb-single-table-design-with-appsync-access-and-security-features/)
 * IETF - [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068)
 
-## Case studies
-* SoundCloud - [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
-* Carlos Arguelles - [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
-* DAZN - [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
-* Amazon - [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
-
 ## CI/CD
 * AWS - [Automate rollbacks for Amazon ECS rolling deployments with CloudWatch alarms](https://aws.amazon.com/blogs/containers/automate-rollbacks-for-amazon-ecs-rolling-deployments-with-cloudwatch-alarms/)
 * Jim Bird - [Rolling Forward and other Deployment Myths](https://dzone.com/articles/rolling-forward-and-other)
@@ -80,8 +74,9 @@ A collection of awesome things related to Architecture
 ## Learning from failures
 * 37signals - [Accounting for the Basecamp 3 outage on June 27, 2022](https://updates.basecamp.com/post/accounting-for-the-basecamp-3-outage-on-june-27-2022)
 
-## Live migration
+## Migrations
 * Spotify - [Changing the Wheels on a Moving Bus — Spotify’s Event Delivery Migration](https://engineering.atspotify.com/2021/10/20/changing-the-wheels-on-a-moving-bus-spotify-event-delivery-migration/)
+* Amazon - [Amazon CISO Jeff Carter - Securing Amazon.com and Migrating Databases to the Cloud](https://www.youtube.com/watch?v=5xuCQJzv7eM)
 
 ## Methodology
 * Gregor Hohpe - [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/)
@@ -91,6 +86,8 @@ A collection of awesome things related to Architecture
 * Chris Richardson - [Minimizing Design Time Coupling in a Microservice Architecture](https://www.infoq.com/presentations/microservices-design-time-coupling/)
 * James Hamilton - [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
 * Amazon - [Operational Readiness Reviews (ORR)](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
+* SoundCloud - [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
+* Carlos Arguelles - [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
 * martinfowler.com - [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
 * martinfowler.com - [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 * Pedro Del Gallego - [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
@@ -142,6 +139,9 @@ A collection of awesome things related to Architecture
 ## Operations
 * TheFork - [Kubernetes cluster upgrade: the blue-green deployment strategy](https://aws.amazon.com/blogs/containers/kubernetes-cluster-upgrade-the-blue-green-deployment-strategy/)
 * AWS - [Resolve IT Incidents Faster with Incident Manager, a New Capability of AWS Systems Manager](https://aws.amazon.com/blogs/aws/resolve-it-incidents-faster-with-incident-manager-a-new-capability-of-aws-systems-manager/)
+
+## Platforms
+* DAZN - [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 
 ## Reliability
 * Zendesk - [ZEN and the art of Reliability](https://zendesk.engineering/zen-and-the-art-of-reliability-f42fa7e64849)
