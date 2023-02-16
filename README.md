@@ -46,13 +46,14 @@ A collection of awesome things related to Architecture
 ## Concepts
 * [Application Lifecycle Management (ALM)](https://aws.amazon.com/what-is/application-lifecycle-management/)
 * [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) criteria: business value/risk, stakeholder concern, quality level, external dependencies, cross-cutting, first-of-a-kind, source of problems on past projects.
-* [Architecture decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html) support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts
+* [Architecture decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html): Records that support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts
 * [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) pillars: 1/ Operational excellence 2/ Security 3/ Reliability 4/ Performance efficiency 5/ Cost optimization
+* [Coupling](https://architectelevator.com/cloud/cloud-decoupling-cost/): Coupling describes the independent variability of connected systems, i.e., whether a change in System A has an effect on System B. If it does, A and B are coupled.
 * [Coupling facets](https://youtu.be/w9a7eI6BlVc?t=1487): 1/ Technology (Java vs. C++, Kubernetes, PostgreSQL) 2/ Location (IP addresses, DNS) 3/ Data Format (Binary, XML, JSON, protobuf, Avro) 4/ Data Type (int16, int32, string, UTF-8, null, empty) 5/ Semantic (Name, Middlename, ZIP) 6/ Temporal (sync, async) 7/ Interaction Style (messaging, RPC, query, GraphQL) 8/ Conversation (pagination, caching, retries)
 * [Declarative provisioning not equal to Declarative language](https://www.youtube.com/watch?v=ttJAIQf7cTw&t=2077s)
 * [Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&feature=share) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation.
-* Software Boundaries or "Fracture Planes" ([Matthew Skelton](https://blog.matthewskelton.net/about/)): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
-* Software delivery performance four key metrics: 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
+* [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
+* [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
 
 ## Data isolation
 * AWS - [Secure data movement across Amazon S3 and Amazon Redshift using role chaining and ASSUMEROLE](https://aws.amazon.com/blogs/big-data/secure-data-movement-across-amazon-s3-and-amazon-redshift-using-role-chaining-and-assumerole/)
