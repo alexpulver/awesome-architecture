@@ -1,6 +1,6 @@
 # Awesome Architecture ![Awesome](https://awesome.re/badge.svg)
 
-This document starts with a list of concepts and foundations, followed by [jobs-to-be-done](https://strategyn.com/jobs-to-be-done/). The jobs-to-be-done are grouped by application lifecycle stages (e.g. design > API, deployment).
+This document starts with a list of concepts and foundations, followed by [jobs-to-be-done](https://strategyn.com/jobs-to-be-done/).
 
 ## Concepts
 * [Application Lifecycle Management (ALM)](https://aws.amazon.com/what-is/application-lifecycle-management/)
