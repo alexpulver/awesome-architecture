@@ -74,6 +74,14 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [The Magic of Platforms • Gregor Hohpe • PlatformCon 2022](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
 
 ## Jobs-to-be-done
+### Access control and isolation
+* [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
+* [Building Multi-Tenant Solutions with Amazon OpenSearch Service](https://www.youtube.com/watch?v=FswkQ8YfZyc)
+* [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
+* [Secure data movement across Amazon S3 and Amazon Redshift using role chaining and ASSUMEROLE](https://aws.amazon.com/blogs/big-data/secure-data-movement-across-amazon-s3-and-amazon-redshift-using-role-chaining-and-assumerole/)
+* [Securing Multi-Tenant Kubernetes Clusters at Scale](https://www.youtube.com/watch?v=WS2Qgx0qgCM)
+* Solving large-scale data access challenges with Amazon S3 ([video](https://www.youtube.com/watch?v=BOz2_hgoob4), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/STG328_Solving-large-scale-data-access-challenges-with-Amazon-S3.pdf))
+
 ### API
 * [Architecture patterns for consuming private APIs cross-account](https://aws.amazon.com/blogs/compute/architecture-patterns-for-consuming-private-apis-cross-account/)
 * [Best practices for working with the Apache Velocity Template Language in Amazon API Gateway](https://aws.amazon.com/blogs/compute/best-practices-for-working-with-the-apache-velocity-template-language-in-amazon-api-gateway/)
@@ -143,13 +151,6 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 
 ### Internet of Things (IoT)
 * [How BISSELL migrated a million vacuum devices to a scalable IoT Platform on AWS](https://aws.amazon.com/blogs/iot/how-bissell-migrated-a-million-vacuum-devices-to-a-scalable-iot-platform-on-aws/)
-
-### Isolation
-* [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
-* [Building Multi-Tenant Solutions with Amazon OpenSearch Service](https://www.youtube.com/watch?v=FswkQ8YfZyc)
-* [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
-* [Secure data movement across Amazon S3 and Amazon Redshift using role chaining and ASSUMEROLE](https://aws.amazon.com/blogs/big-data/secure-data-movement-across-amazon-s3-and-amazon-redshift-using-role-chaining-and-assumerole/)
-* [Securing Multi-Tenant Kubernetes Clusters at Scale](https://www.youtube.com/watch?v=WS2Qgx0qgCM)
 
 ### Machine learning
 * [How to scale machine learning inference for multi-tenant SaaS use cases](https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/)
