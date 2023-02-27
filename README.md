@@ -199,6 +199,10 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
+* Scaling Etsy Payments with Vitess:
+   * [Part 1 – The Data Model](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
+   * [Part 2 – The “Seamless” Migration](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-2--the-seamless-migration)
+   * [Part 3 – Reducing Cutover Risk](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
 
 ### Tenant costs
 * [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
