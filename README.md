@@ -11,6 +11,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Declarative provisioning not equal to Declarative language](https://www.youtube.com/watch?v=ttJAIQf7cTw&t=2077s)
 * [Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&feature=share) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation.
 * [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/)
+* [GitOps](https://opengitops.dev/): 1/ Declarative 2/ Versioned and Immutable 3/ Pulled Automatically 4/ Continuously Reconciled
 * [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
 * [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
 * [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
