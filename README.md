@@ -20,6 +20,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [7 tell-tale signs of fake DevOps](https://www.cio.com/article/419248/7-tell-tale-signs-of-fake-devops.html)
 * [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
 * [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
+* [DevOps Topologies](https://web.devopstopologies.com/index.html)
 * [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
 * [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 * Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
