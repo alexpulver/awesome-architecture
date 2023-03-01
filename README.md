@@ -64,6 +64,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Kubernetes as a platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
 * [Minimizing Design Time Coupling in a Microservice Architecture](https://www.infoq.com/presentations/microservices-design-time-coupling/)
+* Modern cloud applications: Do they lock you in? ([video](https://www.youtube.com/watch?v=Ud9h1hJgoKk&list=WL&index=1), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/ARC207_Modern-cloud-applications-Do-they-lock-you-in.pdf))
 * [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
 * [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
