@@ -19,16 +19,18 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 ## Foundations
 ### Organizational culture, structure, and processes
 * [7 tell-tale signs of fake DevOps](https://www.cio.com/article/419248/7-tell-tale-signs-of-fake-devops.html)
-* [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
 * [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
 * [DevOps Topologies](https://web.devopstopologies.com/index.html)
 * [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
-* [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 * Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
 * [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
 * [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
 * Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
 * [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/)
+
+### Working backwards
+* [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
+* [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 
 ### Product-market fit
 * [Box’s Aaron Levie on navigating SaaS’ several stages of growth](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/boxs-aaron-levie-on-navigating-saas-several-stages-of-growth)
@@ -60,6 +62,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 ### Cross-cutting concerns
 * [Aligning SaaS and Service Planes Definitions](https://softwhat.com/aligning-saas-and-service-planes-definitions/)
 * [Architect multitenant solutions on Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)
+* Are you integrating or building distributed applications? ([video](https://youtu.be/Zrj7RD7G24Q), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/API308_Are-you-integrating-or-building-distributed-applications.pdf))
 * [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
 * [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Kubernetes as a platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
