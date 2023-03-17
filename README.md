@@ -71,6 +71,9 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
 * [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
+### Cross-cutting stories
+* [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
+
 ### Landing zone
 * [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
 
