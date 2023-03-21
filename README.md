@@ -73,6 +73,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 
 ### Cross-cutting stories
 * [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
+* [Takeaways of building a business-critical low-latency microservice at scale](https://medium.com/teads-engineering/takeaways-of-building-a-business-critical-low-latency-microservice-at-scale-97e79ce3ec78)
 
 ### Landing zone
 * [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
