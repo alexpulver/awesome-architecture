@@ -39,6 +39,9 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Box’s Aaron Levie on navigating SaaS’ several stages of growth](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/boxs-aaron-levie-on-navigating-saas-several-stages-of-growth)
 * [Managing growth and value creation in SaaS: An interview with a software leader](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/managing-growth-and-value-creation-in-saas)
 
+### Profitable growth
+* [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
+
 ### Business and technology alignment
 * [Modernizing Technology and Mindset with ‘Enabling Teams’](https://medium.com/cyberark-engineering/modernizing-technology-and-mindset-with-enabling-teams-52e8dc45a261)
 * [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
