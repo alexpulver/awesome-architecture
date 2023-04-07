@@ -42,16 +42,16 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 ### Profitable growth
 * [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
 
+### Business metrics
+* [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
+* [Product metrics that matter the most: A flywheel framework for cloud business leaders](https://nextbigteng.substack.com/p/product-metrics-that-matter-the-most)
+* [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
+
 ### Business and technology alignment
 * [Modernizing Technology and Mindset with ‘Enabling Teams’](https://medium.com/cyberark-engineering/modernizing-technology-and-mindset-with-enabling-teams-52e8dc45a261)
 * [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
 * [Strategies for investment in Tech Debt vs Product Debt when building new software products](https://medium.com/stackpulse/strategies-for-investment-in-tech-debt-vs-product-debt-when-building-new-software-428de5680070)
 * [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
-
-### Business metrics
-* [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
-* [Product metrics that matter the most: A flywheel framework for cloud business leaders](https://nextbigteng.substack.com/p/product-metrics-that-matter-the-most)
-* [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
 
 ### Compliance
 * [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
