@@ -205,9 +205,9 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Kubernetes cluster upgrade: the blue-green deployment strategy](https://aws.amazon.com/blogs/containers/kubernetes-cluster-upgrade-the-blue-green-deployment-strategy/)
 * [Resolve IT Incidents Faster with Incident Manager, a New Capability of AWS Systems Manager](https://aws.amazon.com/blogs/aws/resolve-it-incidents-faster-with-incident-manager-a-new-capability-of-aws-systems-manager/)
 * Towards Operational Excellence blog post series:
-    * [Part 1 — Customers, Culture, and why you should care](https://medium.com/@adhorn/towards-operational-excellence-35ba6298b12f)
-    * [Part 2 —On the importance of tools](https://medium.com/@adhorn/towards-operational-excellence-c9fe298e27e7)
-    * [Part 3 — Mechanisms](https://medium.com/@adhorn/towards-operational-excellence-part-3-8b727f06a4b6)
+    * [Part 1: Customers, Culture, and why you should care](https://medium.com/@adhorn/towards-operational-excellence-35ba6298b12f)
+    * [Part 2: On the importance of tools](https://medium.com/@adhorn/towards-operational-excellence-c9fe298e27e7)
+    * [Part 3: Mechanisms](https://medium.com/@adhorn/towards-operational-excellence-part-3-8b727f06a4b6)
 * [ZEN and the art of Reliability](https://zendesk.engineering/zen-and-the-art-of-reliability-f42fa7e64849)
 
 ### Sharding and partitioning data
@@ -221,9 +221,9 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 * Scaling Etsy Payments with Vitess:
-   * [Part 1 – The Data Model](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
-   * [Part 2 – The “Seamless” Migration](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-2--the-seamless-migration)
-   * [Part 3 – Reducing Cutover Risk](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
+   * [Part 1: The Data Model](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
+   * [Part 2: The “Seamless” Migration](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-2--the-seamless-migration)
+   * [Part 3: Reducing Cutover Risk](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
 
 ### Tenant costs
 * [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
