@@ -151,6 +151,9 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 
+### Encryption
+* [Control Access to Your Data with Slack Enterprise Key Management and AWS KMS](https://aws.amazon.com/blogs/apn/control-access-to-your-data-with-slack-enterprise-key-management-and-aws-kms/)
+
 ### Extensibility
 * Supporting extensibility in SaaS environments ([video](https://www.youtube.com/watch?v=uzRrEWzqD0Y), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/SAS302_Supporting-extensibility-in-SaaS-environments.pdf))
 
