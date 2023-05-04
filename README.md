@@ -77,6 +77,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Minimizing Design Time Coupling in a Microservice Architecture](https://www.infoq.com/presentations/microservices-design-time-coupling/)
 * Modern cloud applications: Do they lock you in? ([video](https://www.youtube.com/watch?v=Ud9h1hJgoKk&list=WL&index=1), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/ARC207_Modern-cloud-applications-Do-they-lock-you-in.pdf))
 * [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
+* [Serverless or Kubernetes on AWS](https://aws.amazon.com/getting-started/decision-guides/serverless-or-kubernetes-on-aws-how-to-choose/)
 * [Takeaways of building a business-critical low-latency microservice at scale](https://medium.com/teads-engineering/takeaways-of-building-a-business-critical-low-latency-microservice-at-scale-97e79ce3ec78)
 * [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
