@@ -54,6 +54,18 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Strategies for investment in Tech Debt vs Product Debt when building new software products](https://medium.com/stackpulse/strategies-for-investment-in-tech-debt-vs-product-debt-when-building-new-software-428de5680070)
 * [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
 
+### Product engineering
+* Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
+* User Story – _“As a [type of user] I [want this thing] so that [I can accomplish this goal]”_. Example: _“As a site visitor, I want to see new content when I come to the site, so I come back more often”_.
+* Job Story – _“When [situation], I want to [motivation], So I can [expected outcome]”_. Example: _“When it’s dinner time tonight, I want to have pizza so I can easily feed my friends”_.
+* Feature-Driven Development (FDD) – _“[action] the [result] [by|for|of|to] a(n) [object]”_. Example: _“Generate a unique identifier for a transaction”_.
+* [Why the Three-Part User Story Template Works So Well](https://www.mountaingoatsoftware.com/blog/why-the-three-part-user-story-template-works-so-well)
+* [How Detailed Should a User Story Be?](https://www.mountaingoatsoftware.com/blog/what-level-of-detail-should-be-captured-in-a-user-story)
+* [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
+* [Product Requirements Document](https://www.productplan.com/glossary/product-requirements-document/)
+* [Product requirements documents, downsized](https://www.atlassian.com/agile/product-management/requirements)
+* [Shape Up: Mapping the Scopes](https://basecamp.com/shapeup/3.3-chapter-12)
+
 ### Compliance
 * [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 
