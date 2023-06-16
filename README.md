@@ -84,6 +84,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Architect multitenant solutions on Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)
 * Are you integrating or building distributed applications? ([video](https://youtu.be/Zrj7RD7G24Q), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/API308_Are-you-integrating-or-building-distributed-applications.pdf))
 * [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
+* [Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 * [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
 * [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Introducing the Journey to SaaS Guide to Help You Build, Launch, and Operate SaaS Solutions on AWS](https://aws.amazon.com/blogs/apn/introducing-the-journey-to-saas-guide-to-help-you-build-launch-and-operate-saas-solutions-on-aws/)
