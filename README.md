@@ -25,6 +25,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [DevOps Topologies](https://web.devopstopologies.com/index.html)
 * [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
 * Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
+* [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
 * [Pattern-based process for making design decisions](https://microservices.io/post/architecture/2023/03/13/better-decision-making-with-patterns.html)
 * [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
 * [Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
