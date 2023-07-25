@@ -29,6 +29,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Pattern-based process for making design decisions](https://microservices.io/post/architecture/2023/03/13/better-decision-making-with-patterns.html)
 * [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
 * [Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
+* [Team Interaction Modeling with Team Topologies](https://teamtopologies.com/key-concepts-content/team-interaction-modeling-with-team-topologies)
 * [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
 * The problems with MVPs in legacy replacement ([Part 1](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement), [Part 2](https://www.thoughtworks.com/insights/blog/part-2-problems-mvps-legacy-replacement))
 * Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
