@@ -19,37 +19,6 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
 
 ## Foundations
-### Organizational culture, structure, and processes
-* [7 tell-tale signs of fake DevOps](https://www.cio.com/article/419248/7-tell-tale-signs-of-fake-devops.html)
-* [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
-* [DevOps Topologies](https://web.devopstopologies.com/index.html)
-* [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
-* Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
-* [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
-* [Pattern-based process for making design decisions](https://microservices.io/post/architecture/2023/03/13/better-decision-making-with-patterns.html)
-* [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
-* [Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
-* [Team Interaction Modeling with Team Topologies](https://teamtopologies.com/key-concepts-content/team-interaction-modeling-with-team-topologies)
-* [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
-* The problems with MVPs in legacy replacement ([Part 1](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement), [Part 2](https://www.thoughtworks.com/insights/blog/part-2-problems-mvps-legacy-replacement))
-* Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
-* [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/)
-
-### Working backwards
-* [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
-* [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
-
-### Product-market fit
-* [Box’s Aaron Levie on navigating SaaS’ several stages of growth](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/boxs-aaron-levie-on-navigating-saas-several-stages-of-growth)
-* [Managing growth and value creation in SaaS: An interview with a software leader](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/managing-growth-and-value-creation-in-saas)
-
-### Profitable growth
-* [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
-
-### Business metrics
-* [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
-* [Product metrics that matter the most: A flywheel framework for cloud business leaders](https://nextbigteng.substack.com/p/product-metrics-that-matter-the-most)
-* [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
 
 ### Business and technology alignment
 * [Architecture Independent Value Streams](https://www.youtube.com/watch?v=LdhFf_I-pRA)
@@ -59,30 +28,14 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Using domain analysis to model microservices](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 * [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
 
-### Product
-* [How Detailed Should a User Story Be?](https://www.mountaingoatsoftware.com/blog/what-level-of-detail-should-be-captured-in-a-user-story)
-* [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
-* Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
-* [Product Requirements Document](https://www.productplan.com/glossary/product-requirements-document/)
-* [Product requirements documents, downsized](https://www.atlassian.com/agile/product-management/requirements)
-* [Shape Up: Mapping the Scopes](https://basecamp.com/shapeup/3.3-chapter-12)
-* Story types:
-   * User Story – _“As a [type of user] I [want this thing] so that [I can accomplish this goal]”_. Example: _“As a site visitor, I want to see new content when I come to the site, so I come back more often”_.
-   * Job Story – _“When [situation], I want to [motivation], So I can [expected outcome]”_. Example: _“When it’s dinner time tonight, I want to have pizza so I can easily feed my friends”_.
-   * Feature-Driven Development (FDD) – _“[action] the [result] [by|for|of|to] a(n) [object]”_. Example: _“Generate a unique identifier for a transaction”_.
-* [Why the Three-Part User Story Template Works So Well](https://www.mountaingoatsoftware.com/blog/why-the-three-part-user-story-template-works-so-well)
+### Business metrics
+* [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
+* [Product metrics that matter the most: A flywheel framework for cloud business leaders](https://nextbigteng.substack.com/p/product-metrics-that-matter-the-most)
+* [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
 
 ### Compliance
 * [Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
-
-### Technology landscape
-* [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
-
-### Frameworks
-* [Application Design Framework (ADF)](https://applicationdesignframework.com)
-* [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) pillars: 1/ Operational excellence 2/ Security 3/ Reliability 4/ Performance efficiency 5/ Cost optimization
-* [Operational Readiness Reviews (ORR)](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
-* [SaaS Lens for the AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html)
+* [Importance and Impact of Compliance for SaaS Solutions on AWS](https://aws.amazon.com/blogs/apn/importance-and-impact-of-compliance-for-saas-solutions-on-aws/)
 
 ### Cross-cutting concerns
 * [Aligning SaaS and Service Planes Definitions](https://softwhat.com/aligning-saas-and-service-planes-definitions/)
@@ -104,13 +57,62 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Takeaways of building a business-critical low-latency microservice at scale](https://medium.com/teads-engineering/takeaways-of-building-a-business-critical-low-latency-microservice-at-scale-97e79ce3ec78)
 * [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
+### Frameworks
+* [Application Design Framework (ADF)](https://applicationdesignframework.com)
+* [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) pillars: 1/ Operational excellence 2/ Security 3/ Reliability 4/ Performance efficiency 5/ Cost optimization
+* [Operational Readiness Reviews (ORR)](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
+* [SaaS Lens for the AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html)
+
 ### Landing zone
 * [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
+
+### Organizational culture, structure, and processes
+* [7 tell-tale signs of fake DevOps](https://www.cio.com/article/419248/7-tell-tale-signs-of-fake-devops.html)
+* [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
+* [DevOps Topologies](https://web.devopstopologies.com/index.html)
+* [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
+* Leadership Session: Developer Tools on AWS ([video](https://www.youtube.com/watch?v=p9IybVJp5QM), [slides](https://d1.awsstatic.com/events/reinvent/2019/Leadership_Session_Developer_Tools_on_AWS_DOP210-L.pdf))
+* [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
+* [Pattern-based process for making design decisions](https://microservices.io/post/architecture/2023/03/13/better-decision-making-with-patterns.html)
+* [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
+* [Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
+* [Team Interaction Modeling with Team Topologies](https://teamtopologies.com/key-concepts-content/team-interaction-modeling-with-team-topologies)
+* [The Away Team Model at Amazon](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
+* The problems with MVPs in legacy replacement ([Part 1](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement), [Part 2](https://www.thoughtworks.com/insights/blog/part-2-problems-mvps-legacy-replacement))
+* Two-pizza teams: Organizing for innovation ([video](https://www.youtube.com/watch?v=XavPl5t9dS8), [slides](https://d1.awsstatic.com/events/reinvent/2020/TwoPizza_Teams_Building_innovative_teams_that_scale_INO207.pdf))
+* [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/)
 
 ### Platform
 * [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
 * [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 * [The Magic of Platforms • Gregor Hohpe • PlatformCon 2022](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
+
+### Product
+* [How Detailed Should a User Story Be?](https://www.mountaingoatsoftware.com/blog/what-level-of-detail-should-be-captured-in-a-user-story)
+* [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
+* Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
+* [Product Requirements Document](https://www.productplan.com/glossary/product-requirements-document/)
+* [Product requirements documents, downsized](https://www.atlassian.com/agile/product-management/requirements)
+* [Shape Up: Mapping the Scopes](https://basecamp.com/shapeup/3.3-chapter-12)
+* Story types:
+   * User Story – _“As a [type of user] I [want this thing] so that [I can accomplish this goal]”_. Example: _“As a site visitor, I want to see new content when I come to the site, so I come back more often”_.
+   * Job Story – _“When [situation], I want to [motivation], So I can [expected outcome]”_. Example: _“When it’s dinner time tonight, I want to have pizza so I can easily feed my friends”_.
+   * Feature-Driven Development (FDD) – _“[action] the [result] [by|for|of|to] a(n) [object]”_. Example: _“Generate a unique identifier for a transaction”_.
+* [Why the Three-Part User Story Template Works So Well](https://www.mountaingoatsoftware.com/blog/why-the-three-part-user-story-template-works-so-well)
+
+### Product-market fit
+* [Box’s Aaron Levie on navigating SaaS’ several stages of growth](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/boxs-aaron-levie-on-navigating-saas-several-stages-of-growth)
+* [Managing growth and value creation in SaaS: An interview with a software leader](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/managing-growth-and-value-creation-in-saas)
+
+### Profitable growth
+* [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
+
+### Technology landscape
+* [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+
+### Working backwards
+* [Amazon’s Not So Secret Weapon - The magic of Working Backwards: a real-world case study](https://medium.com/nerd-for-tech/how-i-grew-an-engineering-productivity-tool-to-impact-thousands-of-engineers-at-amazon-and-how-28a990091207)
+* [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 
 ## Jobs-to-be-done
 ### Access control and isolation
