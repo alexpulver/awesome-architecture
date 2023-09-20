@@ -22,6 +22,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 
 ### Business and technology alignment
 * [Architecture Independent Value Streams](https://www.youtube.com/watch?v=LdhFf_I-pRA)
+* [Domain-Driven Cloud: Aligning Your Cloud Architecture to Your Business Model](https://www.infoq.com/articles/domain-driven-cloud/)
 * [Modernizing Technology and Mindset with ‘Enabling Teams’](https://medium.com/cyberark-engineering/modernizing-technology-and-mindset-with-enabling-teams-52e8dc45a261)
 * [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
 * [Start Your Architecture Modernization with Domain-Driven Discovery](https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/)
