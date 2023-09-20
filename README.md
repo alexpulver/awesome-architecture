@@ -24,6 +24,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Architecture Independent Value Streams](https://www.youtube.com/watch?v=LdhFf_I-pRA)
 * [Modernizing Technology and Mindset with ‘Enabling Teams’](https://medium.com/cyberark-engineering/modernizing-technology-and-mindset-with-enabling-teams-52e8dc45a261)
 * [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
+* [Start Your Architecture Modernization with Domain-Driven Discovery](https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/)
 * [Strategies for investment in Tech Debt vs Product Debt when building new software products](https://medium.com/stackpulse/strategies-for-investment-in-tech-debt-vs-product-debt-when-building-new-software-428de5680070)
 * [Using domain analysis to model microservices](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 * [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
