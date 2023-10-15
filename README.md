@@ -110,6 +110,10 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 ### Profitable growth
 * [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
 
+### Security
+* [AWS Startup Security Baseline (AWS SSB)](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
+* [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
+
 ### Technology landscape
 * [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 
