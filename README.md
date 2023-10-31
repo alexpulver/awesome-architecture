@@ -111,8 +111,8 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [A CEO’s tactical guide to driving profitable growth](https://www.bvp.com/atlas/a-ceo-s-tactical-guide-to-driving-profitable-growth)
 
 ### Security
-* [AWS Startup Security Baseline (AWS SSB)](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
 * [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
+* [AWS Startup Security Baseline (AWS SSB)](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
 
 ### Technology landscape
 * [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
@@ -136,6 +136,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Architecture patterns for consuming private APIs cross-account](https://aws.amazon.com/blogs/compute/architecture-patterns-for-consuming-private-apis-cross-account/)
 * [Best practices for working with the Apache Velocity Template Language in Amazon API Gateway](https://aws.amazon.com/blogs/compute/best-practices-for-working-with-the-apache-velocity-template-language-in-amazon-api-gateway/)
 * How Netflix Scales its API with GraphQL Federation ([Part 1](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2), [Part 2](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a))
+* [Should you use a Lambda Monolith, aka Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 
 ### Authentication and authorization
 * [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
