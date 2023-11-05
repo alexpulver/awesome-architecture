@@ -139,6 +139,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Should you use a Lambda Monolith, aka Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 
 ### Authentication and authorization
+* A day in the life of a billion requests ([slides](https://d1.awsstatic.com/events/Summits/reinvent2022/SEC404_A-day-in-the-life-of-a-billion-requests.pdf), [video](https://www.youtube.com/watch?v=tPr1AgGkvc4))
 * [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 * [Enhancing Amazon DynamoDB single-table design with AWS AppSync access and security features](https://aws.amazon.com/blogs/mobile/enhancing-dynamodb-single-table-design-with-appsync-access-and-security-features/)
 * [Entitlements: Architecting Authorization](https://www.styra.com/blog/entitlements-architecting-authorization/)
