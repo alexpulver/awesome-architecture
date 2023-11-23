@@ -71,6 +71,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 
 ### Organizational culture, structure, and processes
 * [7 tell-tale signs of fake DevOps](https://www.cio.com/article/419248/7-tell-tale-signs-of-fake-devops.html)
+* [Agile Rehab: Replacing Process Dogma with Engineering to Achieve True Agility](https://www.infoq.com/articles/replace-process-dogma-engineering/)
 * [DevOps at Amazon: A Look at Our Tools and Processes](https://www.youtube.com/watch?v=esEFaY0FDKc)
 * [DevOps Topologies](https://web.devopstopologies.com/index.html)
 * [Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks](https://www.youtube.com/watch?v=FlZm3nFMIAM&feature=youtu.be)
