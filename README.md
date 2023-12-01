@@ -17,6 +17,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
 * [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
 * [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
+* [The Frugal Architect](https://www.thefrugalarchitect.com/): 1/ Make Cost a Non-functional Requirement 2/ Systems that Last Align Cost to Business 3/ Architecting is a Series of Trade-offs 4/ Unobserved Systems Lead to Unknown Costs 5/ Cost Aware Architectures Implement Cost Controls 6/ Cost Optimization is Incremental 7/ Unchallenged Success Leads to Assumptions
 
 ## Foundations
 
