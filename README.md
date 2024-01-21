@@ -178,6 +178,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Rolling Forward and other Deployment Myths](https://dzone.com/articles/rolling-forward-and-other)
 * [Seamless branch deploys with Kubernetes](https://m.signalvnoise.com/seamless-branch-deploys-with-kubernetes/)
 * [Serverless CI/CD for the Enterprise on AWS](https://aws.amazon.com/quickstart/architecture/serverless-cicd-for-enterprise/)
+* [The Scary Thing About Automating Deploys](https://slack.engineering/the-scary-thing-about-automating-deploys/)
 * [Using AWS Step Functions State Machines to Handle Workflow-Driven AWS CodePipeline Actions](https://aws.amazon.com/blogs/devops/using-aws-step-functions-state-machines-to-handle-workflow-driven-aws-codepipeline-actions/)
 * [Validating AWS CodeCommit Pull Requests with AWS CodeBuild and AWS Lambda](https://aws.amazon.com/blogs/devops/validating-aws-codecommit-pull-requests-with-aws-codebuild-and-aws-lambda/)
 
