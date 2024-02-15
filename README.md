@@ -126,6 +126,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 ## Jobs-to-be-done
 ### Access control and isolation
 * [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
+* [Amazon CodeWhisperer Customizations architecture case study](https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/)
 * [Building Multi-Tenant Solutions with Amazon OpenSearch Service](https://www.youtube.com/watch?v=FswkQ8YfZyc)
 * [How to implement SaaS tenant isolation with ABAC and AWS IAM](https://aws.amazon.com/blogs/security/how-to-implement-saas-tenant-isolation-with-abac-and-aws-iam/)
 * [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
