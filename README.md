@@ -129,6 +129,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [Amazon CodeWhisperer Customizations architecture case study](https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/)
 * [Building Multi-Tenant Solutions with Amazon OpenSearch Service](https://www.youtube.com/watch?v=FswkQ8YfZyc)
 * [How to implement SaaS tenant isolation with ABAC and AWS IAM](https://aws.amazon.com/blogs/security/how-to-implement-saas-tenant-isolation-with-abac-and-aws-iam/)
+* [How to secure CI/CD roles without burning production to the ground](https://theburningmonk.com/2024/02/how-to-secure-ci-cd-roles-without-burning-production-to-the-ground/)
 * [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
 * [Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
 * [Secure data movement across Amazon S3 and Amazon Redshift using role chaining and ASSUMEROLE](https://aws.amazon.com/blogs/big-data/secure-data-movement-across-amazon-s3-and-amazon-redshift-using-role-chaining-and-assumerole/)
