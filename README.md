@@ -28,6 +28,7 @@ This document starts with a list of concepts and foundations, followed by [jobs-
 * [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
 * [Start Your Architecture Modernization with Domain-Driven Discovery](https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/)
 * [Strategies for investment in Tech Debt vs Product Debt when building new software products](https://medium.com/stackpulse/strategies-for-investment-in-tech-debt-vs-product-debt-when-building-new-software-428de5680070)
+* [The Builder’s Guide to Better Mousetraps](https://brooker.co.za/blog/2024/03/04/mousetrap.html)
 * [Using domain analysis to model microservices](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
 * [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
 
