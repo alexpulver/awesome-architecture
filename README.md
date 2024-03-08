@@ -1,23 +1,32 @@
 # Awesome Architecture ![Awesome](https://awesome.re/badge.svg)
 
-This document starts with a list of concepts and foundations, followed by [jobs-to-be-done](https://strategyn.com/jobs-to-be-done/).
+This document starts with a list of concepts, mindset and foundations, followed by [jobs-to-be-done](https://strategyn.com/jobs-to-be-done/).
 
 ## Concepts
 * [Application Lifecycle Management (ALM)](https://aws.amazon.com/what-is/application-lifecycle-management/)
-* [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) criteria: business value/risk, stakeholder concern, quality level, external dependencies, cross-cutting, first-of-a-kind, source of problems on past projects
-* [Architectural decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html): Records that support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts
-* [Continuous Configuration](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html) values often fall into two groups: those that modify operational behavior of an application—such as throttling, limits, connection limits, or logging verbosity—and those that control FAC (Feature Access Control), including feature flags, A/B testing, and user allow/deny lists
-* [Coupling](https://architectelevator.com/cloud/cloud-decoupling-cost/): Coupling describes the independent variability of connected systems, i.e., whether a change in System A has an effect on System B. If it does, A and B are coupled
-* [Coupling facets](https://youtu.be/w9a7eI6BlVc?t=1487): 1/ Technology (Java vs. C++, Kubernetes, PostgreSQL) 2/ Location (IP addresses, DNS) 3/ Data Format (Binary, XML, JSON, protobuf, Avro) 4/ Data Type (int16, int32, string, UTF-8, null, empty) 5/ Semantic (Name, Middlename, ZIP) 6/ Temporal (sync, async) 7/ Interaction Style (messaging, RPC, query, GraphQL) 8/ Conversation (pagination, caching, retries)
+* [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) criteria: business value/risk, stakeholder concern, quality level, external dependencies, cross-cutting, first-of-a-kind, source of problems on past projects.
+* [Architectural decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html): Records that support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts.
+* [Continuous Configuration](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html) values often fall into two groups: those that modify operational behavior of an application—such as throttling, limits, connection limits, or logging verbosity—and those that control FAC (Feature Access Control), including feature flags, A/B testing, and user allow/deny lists.
+* [Coupling](https://architectelevator.com/cloud/cloud-decoupling-cost/): Coupling describes the independent variability of connected systems, i.e., whether a change in System A has an effect on System B. If it does, A and B are coupled.
+* [Coupling facets](https://youtu.be/w9a7eI6BlVc?t=1487): 1/ Technology (Java vs. C++, Kubernetes, PostgreSQL) 2/ Location (IP addresses, DNS) 3/ Data Format (Binary, XML, JSON, protobuf, Avro) 4/ Data Type (int16, int32, string, UTF-8, null, empty) 5/ Semantic (Name, Middlename, ZIP) 6/ Temporal (sync, async) 7/ Interaction Style (messaging, RPC, query, GraphQL) 8/ Conversation (pagination, caching, retries).
 * Declarative provisioning not equal to Declarative language ([video](https://www.youtube.com/watch?v=ttJAIQf7cTw&t=2077s), [slides](https://d1.awsstatic.com/events/reinvent/2021/Building_modern_cloud_applications_Think_integration_API308%20.pdf#page=42))
-* [Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&feature=share) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation
+* [Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&feature=share) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation.
 * [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/)
-* [GitOps](https://opengitops.dev/): 1/ Declarative 2/ Versioned and Immutable 3/ Pulled Automatically 4/ Continuously Reconciled
-* [Platform](https://youtu.be/eMrmAn3bYiI?t=1524): a set of standardized elements that provide value but do not presuppose all problems
+* [GitOps](https://opengitops.dev/): 1/ Declarative 2/ Versioned and Immutable 3/ Pulled Automatically 4/ Continuously Reconciled.
+* [Platform](https://youtu.be/eMrmAn3bYiI?t=1524): a set of standardized elements that provide value but do not presuppose all problems.
 * [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
-* [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas
-* [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR)
-* [The Frugal Architect](https://www.thefrugalarchitect.com/): 1/ Make Cost a Non-functional Requirement 2/ Systems that Last Align Cost to Business 3/ Architecting is a Series of Trade-offs 4/ Unobserved Systems Lead to Unknown Costs 5/ Cost Aware Architectures Implement Cost Controls 6/ Cost Optimization is Incremental 7/ Unchallenged Success Leads to Assumptions
+* [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas.
+* [Software delivery performance four key metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics): 1/ Cycle Time (Change Lead Time) 2/ Deployment Frequency 3/ Change Failure Rate (CFR) 4/ Mean Time to Recovery (MTTR).
+* [Frugal Architecture](https://www.thefrugalarchitect.com/): 1/ Make Cost a Non-functional Requirement 2/ Systems that Last Align Cost to Business 3/ Architecting is a Series of Trade-offs 4/ Unobserved Systems Lead to Unknown Costs 5/ Cost Aware Architectures Implement Cost Controls 6/ Cost Optimization is Incremental 7/ Unchallenged Success Leads to Assumptions.
+
+## Mindset
+* You won’t be agile by focusing on agile frameworks. Agility requires changing everything we do, beginning with engineering our systems for lower delivery friction. ([Bryan Finster](https://www.infoq.com/articles/replace-process-dogma-engineering/))
+* Don’t look for a great Idea, find a good Problem to solve. (Someone)
+* Abstraction in the cloud: a service with higher-level vocabulary that shields from the complexity, security and operations of the underlying implementation ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Infrastructure libraries provide compositions, not abstractions, because consumers own security and operations of the underlying implementation. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Drawing architecture diagrams makes unclear things clear and clear things obvious. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* A system is only evolvable if you can easily understand it and you can safely change it. ([Rebecca Parsons](https://www.infoq.com/podcasts/evolutionary-architecture-evolution/))
+* AWS CDK, Pulumi, Wing, etc. allow you to code the application's architecture, resources configuration and business logic side by side in the same language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 
 ## Foundations
 
