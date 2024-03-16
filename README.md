@@ -227,6 +227,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [How BISSELL migrated a million vacuum devices to a scalable IoT Platform on AWS](https://aws.amazon.com/blogs/iot/how-bissell-migrated-a-million-vacuum-devices-to-a-scalable-iot-platform-on-aws/)
 
 ### Machine learning
+* [Engineering Practices for LLM Application Development](https://martinfowler.com/articles/engineering-practices-llm.html)
 * [How to scale machine learning inference for multi-tenant SaaS use cases](https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/)
 
 ### Migrations
