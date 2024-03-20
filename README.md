@@ -26,7 +26,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * Infrastructure libraries provide compositions, not abstractions, because consumers own security and operations of the underlying implementation. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 * Drawing architecture diagrams makes unclear things clear and clear things obvious. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 * A system is only evolvable if you can easily understand it and you can safely change it. ([Rebecca Parsons](https://www.infoq.com/podcasts/evolutionary-architecture-evolution/))
-* Cloud automation tools like AWS CDK and Pulumi allow you to implement application’s architecture, domain logic and resources configuration using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Cloud automation tools like AWS CDK and Pulumi allow you to implement application’s architecture and domain logic using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 
 ## Foundations
 
