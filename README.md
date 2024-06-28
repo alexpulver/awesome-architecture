@@ -269,6 +269,9 @@ This document starts with a list of concepts, mindset and foundations, followed 
     * [Part 3: Mechanisms](https://medium.com/@adhorn/towards-operational-excellence-part-3-8b727f06a4b6)
 * [ZEN and the art of Reliability](https://zendesk.engineering/zen-and-the-art-of-reliability-f42fa7e64849)
 
+### Reliability
+* [Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding](https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d)
+
 ### Sharding and partitioning data
 * Decomposing the GitLab backend database:
    * [Part 1: Designing and planning](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part1/)
