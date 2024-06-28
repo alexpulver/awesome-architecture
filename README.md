@@ -143,6 +143,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [How to secure CI/CD roles without burning production to the ground](https://theburningmonk.com/2024/02/how-to-secure-ci-cd-roles-without-burning-production-to-the-ground/)
 * [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
 * [Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
+* [SaaS tenant isolation with ABAC using AWS STS support for tags in JWT](https://aws.amazon.com/blogs/security/saas-tenant-isolation-with-abac-using-aws-sts-support-for-tags-in-jwt/)
 * [Secure data movement across Amazon S3 and Amazon Redshift using role chaining and ASSUMEROLE](https://aws.amazon.com/blogs/big-data/secure-data-movement-across-amazon-s3-and-amazon-redshift-using-role-chaining-and-assumerole/)
 * [Securing Multi-Tenant Kubernetes Clusters at Scale](https://www.youtube.com/watch?v=WS2Qgx0qgCM)
 * Solving large-scale data access challenges with Amazon S3 ([video](https://www.youtube.com/watch?v=BOz2_hgoob4), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/STG328_Solving-large-scale-data-access-challenges-with-Amazon-S3.pdf))
