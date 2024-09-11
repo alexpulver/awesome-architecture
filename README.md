@@ -102,6 +102,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 ### Platform
 * [Building Infrastructure Platforms](https://martinfowler.com/articles/building-infrastructure-platform.html)
 * [Integrating Backstage at DAZN](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
+* [Platform Product Management Versus Platform Engineering](https://www.forrester.com/blogs/platform-product-management-versus-platform-engineering/)
 * [The Magic of Platforms • Gregor Hohpe • PlatformCon 2022](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
 
 ### Product
