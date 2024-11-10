@@ -208,6 +208,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Branch by Abstraction](https://www.branchbyabstraction.com/) for major changes that take time
 * Building production-ready prototypes ([video](https://www.youtube.com/watch?v=-_Zl9u9i1KI), [slides](https://d1.awsstatic.com/events/reinvent/2021/Building_productionready_prototypes_ARC330.pdf))
 * [Deploy AWS Organizations resources by using CloudFormation](https://aws.amazon.com/blogs/security/deploy-aws-organizations-resources-by-using-cloudformation/)
+* [IAC Adoption Monitor](https://github.com/aws-samples/monitor-your-iac-adoption-using-aws-cloudformation-iac-generator)
 * [Include CloudFormation templates in the CDK](https://docs.aws.amazon.com/cdk/api/latest/docs/cloudformation-include-readme.html)
 * [Managing resources using AWS CloudFormation Resource Types](https://aws.amazon.com/blogs/mt/managing-resources-using-aws-cloudformation-resource-types/)
 * [Running bash commands in AWS CloudFormation templates](https://aws.amazon.com/blogs/mt/running-bash-commands-in-aws-cloudformation-templates/)
