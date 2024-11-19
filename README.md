@@ -20,13 +20,16 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Frugal Architecture](https://www.thefrugalarchitect.com/): 1/ Make Cost a Non-functional Requirement 2/ Systems that Last Align Cost to Business 3/ Architecting is a Series of Trade-offs 4/ Unobserved Systems Lead to Unknown Costs 5/ Cost Aware Architectures Implement Cost Controls 6/ Cost Optimization is Incremental 7/ Unchallenged Success Leads to Assumptions.
 
 ## Mindset
-* You won’t be agile by focusing on agile frameworks. Agility requires changing everything we do, beginning with engineering our systems for lower delivery friction. ([Bryan Finster](https://www.infoq.com/articles/replace-process-dogma-engineering/))
-* Don’t look for a great Idea, find a good Problem to solve. (Someone)
 * Abstraction in the cloud: a service with higher-level vocabulary that shields from the complexity, security and operations of the underlying implementation ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
-* Infrastructure libraries provide compositions, not abstractions, because consumers own security and operations of the underlying implementation. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
-* Drawing architecture diagrams makes unclear things clear and clear things obvious. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 * A system is only evolvable if you can easily understand it and you can safely change it. ([Rebecca Parsons](https://www.infoq.com/podcasts/evolutionary-architecture-evolution/))
-* Cloud automation tools like AWS CDK and Pulumi allow you to implement application’s architecture and domain logic using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Cloud automation tools like AWS CDK and Pulumi allow you to implement application’s architecture and logic using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Don’t look for a great Idea, find a good Problem to solve. (Someone)
+* Feature branching implies a lower bound to the size of a change-set - you can't be smaller than a cohesive feature. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
+* Increasing the frequency of integration is an important reason to reduce the size of features. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
+* Infrastructure libraries provide compositions, not abstractions, because consumers own security and operations of the underlying implementation. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
+* Requirements are the things that you should discover before starting to build your product. Discovering the requirements during construction, or worse, when you client starts using your product, is so expensive and so inefficient, that we will assume that no right-thinking person would do it, and will not mention it again. ([Suzanne and James Robertson](https://martinfowler.com/bliki/ObservedRequirement.html))
+* To achieve modularity we need to constantly watch our system as it grows and tend it in a more modular direction. Refactoring is the key to achieving this, and refactoring requires high-frequency integration. Modularity and rapid integration thus support each other in a healthy codebase. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
+* You won’t be agile by focusing on agile frameworks. Agility requires changing everything we do, beginning with engineering our systems for lower delivery friction. ([Bryan Finster](https://www.infoq.com/articles/replace-process-dogma-engineering/))
 
 ## Foundations
 
