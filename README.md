@@ -220,6 +220,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 
 ### Encryption
+* [AWS KMS: How many keys do I need?](https://aws.amazon.com/blogs/security/aws-kms-how-many-keys-do-i-need/)
 * [Control Access to Your Data with Slack Enterprise Key Management and AWS KMS](https://aws.amazon.com/blogs/apn/control-access-to-your-data-with-slack-enterprise-key-management-and-aws-kms/)
 
 ### Extensibility
