@@ -23,7 +23,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * Abstraction in the cloud: a service with higher-level vocabulary that shields from the complexity, security and operations of the underlying implementation ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 * A system is only evolvable if you can easily understand it and you can safely change it. ([Rebecca Parsons](https://www.infoq.com/podcasts/evolutionary-architecture-evolution/))
 * Cloud automation tools like AWS CDK and Pulumi allow you to implement application’s architecture and logic using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
-* Build thoughtfully, and fail fast. ([Nadiya Amlani](https://www.linkedin.com/pulse/7-years-amazon-lesson-learned-nadiya-amlani-nqrcc/?trackingId=vdgCtRvuQhqe5r%2BBo1KMHg%3D%3D))
+* Build thoughtfully, and fail fast. ([Nadiya Amlani](https://www.linkedin.com/pulse/7-years-amazon-lesson-learned-nadiya-amlani-nqrcc/))
 * Don’t look for a great Idea, find a good Problem to solve. (Someone)
 * Feature branching implies a lower bound to the size of a change-set - you can't be smaller than a cohesive feature. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
 * Increasing the frequency of integration is an important reason to reduce the size of features. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
