@@ -218,6 +218,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [The Twelve-Factor App](https://12factor.net/)
 * [This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+* [Statements about stateless](https://cerbos.dev/blog/cerbos-dagger-module-for-authorization-testing)
 
 ### Encryption
 * [AWS KMS: How many keys do I need?](https://aws.amazon.com/blogs/security/aws-kms-how-many-keys-do-i-need/)
