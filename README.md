@@ -170,6 +170,18 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Amazon DocumentDB (with MongoDB compatibility) user-defined roles for access control](https://aws.amazon.com/blogs/database/introducing-amazon-documentdb-with-mongodb-compatibility-user-defined-roles-for-access-control/)
 * [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068)
 * [On The Nature of OAuth2’s Scopes](https://auth0.com/blog/on-the-nature-of-oauth2-scopes/)
+* [3 Most Common Authorization Designs for SaaS Products](https://www.cerbos.dev/blog/3-most-common-authorization-designs-for-saas-products)
+* [Securing non-human identities: Understanding and addressing the OWASP top 10 threats](https://www.cerbos.dev/blog/securing-non-human-identities-understanding-and-addressing-owasp-top-10-threats)
+* [5 Factors to Weigh When Building Authorization Architecture](https://cerbos.dev/blog/5-factors-to-weigh-when-building-authorization-architecture)
+* [Authorization in the Context of SOC 2 and Other Certifications](https://cerbos.dev/blog/authorization-in-the-context-of-soc-2-and-other-certifications)
+* [Bring Your Own Identity: What Does It Mean for Authorization?](https://cerbos.dev/blog/bring-your-own-identity-what-does-it-mean-for-authorization)
+* [Decoupled authorization: Navigating technical challenges and best practices](https://cerbos.dev/blog/decoupled-authorization-navigating-technical-challenges-and-best-practices)
+* [Infrastructure vs Application Authorization](https://cerbos.dev/blog/infrastructure-vs-application-authorization)
+* [Service-to-service authorization: A guide to non-user principals](https://cerbos.dev/blog/service-to-service-authorization)
+* [Stateful authorization is an anti-pattern](https://cerbos.dev/blog/stateful-authorization-is-an-anti-pattern)
+* [Important tips for microservices authorization](https://cerbos.dev/blog/tips-for-microservices-authorization)
+* [Authorization at the edge](https://www.cerbos.dev/blog/edge-authorization)
+* [Passwordless Identity with Magic and Authorization with Cerbos](https://cerbos.dev/blog/passwordless-identity-with-magic-and-authorization-with-cerbos)
 
 ### Configuration
 * [Continuous Configuration at the Speed of Sound](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html)
