@@ -76,6 +76,9 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Takeaways of building a business-critical low-latency microservice at scale](https://medium.com/teads-engineering/takeaways-of-building-a-business-critical-low-latency-microservice-at-scale-97e79ce3ec78)
 * [The Serverless Illusion](https://architectelevator.com/cloud/serverless-illusion/)
 * [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+* [What's so bad about sidecars, anyway?](https://www.cerbos.dev/blog/whats-so-bad-about-sidecars-anyway)
+* Migrating from monoliths to microservices? Take a look at a [helpful step-by-step guide](https://solutions.cerbos.dev/monolith-to-microservices-migration-ebook)
+* [It’s Time to Ensure Your Security Is as Scalable as Your Business](https://www.cerbos.dev/blog/the-future-is-stateless-its-time-to-ensure-your-security-is-as-scalable-as-your-business)
 
 ### Frameworks
 * [Application Design Framework (ADF)](https://applicationdesignframework.com)
