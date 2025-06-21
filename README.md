@@ -12,6 +12,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation.
 * [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/)
 * [GitOps](https://opengitops.dev/): 1/ Declarative 2/ Versioned and Immutable 3/ Pulled Automatically 4/ Continuously Reconciled.
+* [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) patterns: 1/ Event 2/ Document 3/ Command. 
 * [Platform](https://youtu.be/eMrmAn3bYiI?t=1524): a set of standardized elements that provide value but do not presuppose all problems.
 * [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
 * [Software Boundaries or "Fracture Planes"](https://blog.matthewskelton.net/about/): 1/ Business Domain Bounded Context 2/ Regulatory Compliance 3/ Change Cadence 4/ Team Location 5/ Risk 6/ Performance Isolation 7/ Technology 8/ User Personas.
