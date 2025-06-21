@@ -3,13 +3,12 @@
 This document starts with a list of concepts, mindset and foundations, followed by [jobs-to-be-done](https://strategyn.com/jobs-to-be-done/).
 
 ## Concepts
-* [Application Lifecycle Management (ALM)](https://aws.amazon.com/what-is/application-lifecycle-management/)
 * [Architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) criteria: business value/risk, stakeholder concern, quality level, external dependencies, cross-cutting, first-of-a-kind, source of problems on past projects.
 * [Architectural decision records (ADRs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/appendix.html): Records that support team alignment, document strategic directions for a project or product, and reduce recurring and time-consuming decision-making efforts.
-* [Continuous Configuration](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html) values often fall into two groups: those that modify operational behavior of an application—such as throttling, limits, connection limits, or logging verbosity—and those that control FAC (Feature Access Control), including feature flags, A/B testing, and user allow/deny lists.
+* [Continuous Configuration](https://www.allthingsdistributed.com/2021/08/continuous-configuration-on-aws.html): 1/ Operational behavior of an application (e.g., throttling, limits, connection limits, logging verbosity) 2/ Feature access control (e.g., feature flags, A/B testing, user allow/deny lists).
 * [Coupling](https://architectelevator.com/cloud/cloud-decoupling-cost/): Coupling describes the independent variability of connected systems, i.e., whether a change in System A has an effect on System B. If it does, A and B are coupled.
 * Coupling facets ([video](https://youtu.be/w9a7eI6BlVc?t=1487), [post](https://www.enterpriseintegrationpatterns.com/ramblings/coupling_facets.html)): 1/ Technology (Java vs. C++, Kubernetes, PostgreSQL) 2/ Location (IP addresses, DNS) 3/ Data Format (Binary, XML, JSON, protobuf, Avro) 4/ Data Type (int16, int32, string, UTF-8, null, empty) 5/ Semantic (Name, Middlename, ZIP) 6/ Temporal (sync, async) 7/ Interaction Style (messaging, RPC, query, GraphQL) 8/ Conversation (pagination, caching, retries).
-* Declarative provisioning not equal to Declarative language ([video](https://www.youtube.com/watch?v=ttJAIQf7cTw&t=2077s), [slides](https://d1.awsstatic.com/events/reinvent/2021/Building_modern_cloud_applications_Think_integration_API308%20.pdf#page=42))
+* Declarative Provisioning != Declarative Language ([video](https://www.youtube.com/watch?v=ttJAIQf7cTw&t=2077s), [slides](https://d1.awsstatic.com/events/reinvent/2021/Building_modern_cloud_applications_Think_integration_API308%20.pdf#page=42))
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html) patterns: 1/ Event Notification 2/ Event-carried State Transfer 3/ Event Sourcing 4/ Command and Query Responsibility Segregation.
 * [Feature Flags](https://launchdarkly.com/blog/what-are-feature-flags/)
 * [GitOps](https://opengitops.dev/): 1/ Declarative 2/ Versioned and Immutable 3/ Pulled Automatically 4/ Continuously Reconciled.
@@ -63,6 +62,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 * [Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 * [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
+* [Good abstractions are obvious but difficult to find, even in the cloud](https://architectelevator.com/cloud/abstractions-difficult/)
 * [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [I’m sorry, but the way you adopt serverless is wrong](https://theburningmonk.com/2024/07/im-sorry-but-the-way-you-adopt-serverless-is-wrong/)
 * [Introducing the Journey to SaaS Guide to Help You Build, Launch, and Operate SaaS Solutions on AWS](https://aws.amazon.com/blogs/apn/introducing-the-journey-to-saas-guide-to-help-you-build-launch-and-operate-saas-solutions-on-aws/)
