@@ -157,6 +157,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * Solving large-scale data access challenges with Amazon S3 ([video](https://www.youtube.com/watch?v=BOz2_hgoob4), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/STG328_Solving-large-scale-data-access-challenges-with-Amazon-S3.pdf))
 
 ### API
+* [APIs as infrastructure: future-proofing Stripe with versioning](https://stripe.com/blog/api-versioning)
 * [Architecture patterns for consuming private APIs cross-account](https://aws.amazon.com/blogs/compute/architecture-patterns-for-consuming-private-apis-cross-account/)
 * [Best practices for working with the Apache Velocity Template Language in Amazon API Gateway](https://aws.amazon.com/blogs/compute/best-practices-for-working-with-the-apache-velocity-template-language-in-amazon-api-gateway/)
 * How Netflix Scales its API with GraphQL Federation ([Part 1](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2), [Part 2](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a))
