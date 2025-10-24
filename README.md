@@ -119,6 +119,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
 * [Product Requirements Document](https://www.productplan.com/glossary/product-requirements-document/)
 * [Product requirements documents, downsized](https://www.atlassian.com/agile/product-management/requirements)
+* [Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
 * [Shape Up: Mapping the Scopes](https://basecamp.com/shapeup/3.3-chapter-12)
 * Story types:
    * User Story – _“As a [type of user] I [want this thing] so that [I can accomplish this goal]”_. Example: _“As a site visitor, I want to see new content when I come to the site, so I come back more often”_.
