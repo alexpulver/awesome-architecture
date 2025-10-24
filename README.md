@@ -27,6 +27,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * Cloud automation tools like AWS CDK, CDK for Terraform and Pulumi allow you to implement application’s resources configuration and business logic using the same programming language. ([Alex Pulver](https://www.linkedin.com/in/alexpulver/))
 * Build thoughtfully, and fail fast. ([Nadiya Amlani](https://www.linkedin.com/pulse/7-years-amazon-lesson-learned-nadiya-amlani-nqrcc/))
 * Don’t look for a great Idea, find a good Problem to solve. (Someone)
+* Excessive complexity is nature’s punishment for organizations that are unable to make decisions. ([Gregor's Law](https://architectelevator.com/gregors-law/))
 * Feature branching implies a lower bound to the size of a change-set - you can't be smaller than a cohesive feature. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
 * Increasing the frequency of integration is an important reason to reduce the size of features. ([Martin Fowler](https://martinfowler.com/articles/branching-patterns.html))
 * Requirements are the things that you should discover before starting to build your product. Discovering the requirements during construction, or worse, when you client starts using your product, is so expensive and so inefficient, that we will assume that no right-thinking person would do it, and will not mention it again. ([Suzanne and James Robertson](https://martinfowler.com/bliki/ObservedRequirement.html))
