@@ -114,6 +114,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [The Magic of Platforms • Gregor Hohpe • PlatformCon 2022](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
 
 ### Product
+* [Agile Spikes Deliver Knowledge So Teams Can Deliver Products](https://www.mountaingoatsoftware.com/blog/spikes)
 * [How Detailed Should a User Story Be?](https://www.mountaingoatsoftware.com/blog/what-level-of-detail-should-be-captured-in-a-user-story)
 * [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
 * Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
