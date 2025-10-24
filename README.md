@@ -115,6 +115,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 
 ### Product
 * [Agile Spikes Deliver Knowledge So Teams Can Deliver Products](https://www.mountaingoatsoftware.com/blog/spikes)
+* [Definition of Ready: What It Is and Why Its Dangerous](https://www.mountaingoatsoftware.com/blog/the-dangers-of-a-definition-of-ready)
 * [How Detailed Should a User Story Be?](https://www.mountaingoatsoftware.com/blog/what-level-of-detail-should-be-captured-in-a-user-story)
 * [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
 * Product requirements: User/actor, Functional, Non-Functional, Technical (not usually in the story)
