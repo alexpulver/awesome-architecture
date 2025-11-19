@@ -187,6 +187,22 @@ This document starts with a list of concepts, mindset and foundations, followed 
 ### Data lake
 * [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 
+### Databases
+* Decomposing the GitLab backend database:
+   * [Part 1: Designing and planning](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part1/)
+   * [Part 2: Final migration and results](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part2/)
+   * [Part 3: Challenges and surprises](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part3/)
+* [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
+* [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+* [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
+* [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+* [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
+* Scaling Etsy Payments with Vitess:
+   * [Part 1: The Data Model](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
+   * [Part 2: The “Seamless” Migration](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-2--the-seamless-migration)
+   * [Part 3: Reducing Cutover Risk](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
+* [Why Strong Consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
+
 ### Deployment
 * Amazon CI/CD Practices for Software Development Teams ([video](https://youtu.be/3HKbXz0RwSg), [slides](https://www.slideshare.net/AmazonWebServices/amazon-cicd-practices-for-software-development-teams))
 * Amazon's approach to high-availability deployment ([video](https://www.youtube.com/watch?v=bCgD2bX1LI4), [slides](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Amazon's_approach_to_high-availability_deployment_DOP404-R1.pdf.pdf))
@@ -294,21 +310,6 @@ This document starts with a list of concepts, mindset and foundations, followed 
 
 ### Reliability
 * [Enhancing Netflix Reliability with Service-Level Prioritized Load Shedding](https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d)
-
-### Sharding and partitioning data
-* Decomposing the GitLab backend database:
-   * [Part 1: Designing and planning](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part1/)
-   * [Part 2: Final migration and results](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part2/)
-   * [Part 3: Challenges and surprises](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part3/)
-* [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
-* [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
-* [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
-* [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
-* [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
-* Scaling Etsy Payments with Vitess:
-   * [Part 1: The Data Model](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-1--the-data-model)
-   * [Part 2: The “Seamless” Migration](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-2--the-seamless-migration)
-   * [Part 3: Reducing Cutover Risk](https://www.etsy.com/il-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
 
 ### Tenant costs
 * [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
