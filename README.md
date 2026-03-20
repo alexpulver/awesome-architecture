@@ -198,6 +198,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 * [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
+* [Migrating Etsy’s database sharding to Vitess](https://www.etsy.com/codeascraft/migrating-etsyas-database-sharding-to-vitess)
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 * Scaling Etsy Payments with Vitess:
