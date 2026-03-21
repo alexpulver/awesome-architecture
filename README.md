@@ -68,6 +68,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 * [Failing successfully: The AWS approach to resilient design](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Failing_successfully_The_AWS_approach_to_resilient_design_ARC303-R2.pdf)
 * [Good abstractions are obvious but difficult to find, even in the cloud](https://architectelevator.com/cloud/abstractions-difficult/)
+* [Handling Errors in Large Systems](https://brooker.co.za/blog/2025/11/20/what-now.html)
 * [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [I’m sorry, but the way you adopt serverless is wrong](https://theburningmonk.com/2024/07/im-sorry-but-the-way-you-adopt-serverless-is-wrong/)
 * [Introducing the Journey to SaaS Guide to Help You Build, Launch, and Operate SaaS Solutions on AWS](https://aws.amazon.com/blogs/apn/introducing-the-journey-to-saas-guide-to-help-you-build-launch-and-operate-saas-solutions-on-aws/)
