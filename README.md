@@ -15,6 +15,7 @@ This document starts with a list of concepts, mindset and foundations, followed 
 * [Feature flags](https://launchdarkly.com/blog/what-are-feature-flags/)
 * [Frugal architecture](https://www.thefrugalarchitect.com/): 1/ make cost a non-functional requirement 2/ systems that last align cost to business 3/ architecting is a series of trade-offs 4/ unobserved systems lead to unknown costs 5/ cost aware architectures implement cost controls 6/ cost optimization is incremental 7/ unchallenged success leads to assumptions.
 * [GitOps](https://opengitops.dev/): 1/ declarative 2/ versioned and immutable 3/ pulled automatically 4/ continuously reconciled.
+* [Mechanism](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/building-mechanisms.html): A mechanism is a process where you create a tool, drive adoption of the tool, and inspect the results in order to make course corrections. It takes controllable inputs and transforms them into ongoing outputs to address a recurring business challenge.
 * [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) patterns: 1/ event 2/ document 3/ command. 
 * [Platform](https://youtu.be/eMrmAn3bYiI?t=1524): a set of standardized elements that provide value but do not presuppose all problems.
 * [SaaS architecture fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
